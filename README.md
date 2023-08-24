@@ -1,6 +1,15 @@
 # Scrapping_web-100movies
 Code for Scrapping web imdb top 100 movie using python
 
+## Fitur from scrapping
+- Movie Name
+- Movie Year
+- Movie Ratings
+- Imdb Ratings
+- Metascore
+- Number Votes
+- Us Gross Millions
+
 ## Usage
 ### 1. Create Virtual Environment
 - python native
