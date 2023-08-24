@@ -8,7 +8,7 @@ import os
 import csv
 import mysql.connector
 
-URL_FILE = "Indicator-BackendTest/Scrapping_web/File/"
+URL_FILE = "File/"
 
 loop = 1
 
