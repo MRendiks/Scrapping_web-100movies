@@ -1,0 +1,101 @@
+movie_name,movie_year,movie_runtime,imdb_ratings,metascore,number_votes,us_gross_millions
+Oppenheimer,2023,180,8.6,88,369868,
+Spider-Man: Across the Spider-Verse,2023,140,8.8,86,232783,
+Interstellar,2014,169,8.7,74,1971868,188.02
+The Godfather,1972,175,9.2,100,1940948,134.97
+The Dark Knight,2008,152,9.0,84,2766659,534.86
+The Shawshank Redemption,1994,142,9.3,82,2787256,28.34
+Inception,2010,148,8.8,74,2456411,292.58
+Spider-Man: Into the Spider-Verse,2018,117,8.4,87,622611,190.24
+Pulp Fiction,1994,154,8.9,95,2138263,107.93
+The Prestige,2006,130,8.5,66,1389326,53.09
+Oldboy,2003,120,8.4,77,606477,0.71
+Inglourious Basterds,2009,153,8.3,69,1516892,120.54
+The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,92,1937836,315.54
+Goodfellas,1990,145,8.7,92,1209376,46.84
+Joker,2019,122,8.4,59,1390038,335.45
+Fight Club,1999,139,8.8,67,2221756,37.03
+The Departed,2006,151,8.5,85,1374333,132.38
+Gladiator,2000,155,8.5,67,1555532,187.71
+Parasite,2019,132,8.5,96,880140,53.37
+The Dark Knight Rises,2012,164,8.4,78,1768488,448.14
+Django Unchained,2012,165,8.4,81,1626647,162.81
+Avengers: Endgame,2019,181,8.4,78,1207160,858.37
+Memento,2000,113,8.4,83,1281956,25.54
+Schindler's List,1993,195,9.0,95,1402118,96.9
+Back to the Future,1985,116,8.5,87,1257805,210.61
+Forrest Gump,1994,142,8.8,82,2167902,330.25
+The Godfather Part II,1974,202,9.0,90,1318942,57.3
+Se7en,1995,127,8.6,65,1724997,100.13
+Alien,1979,117,8.5,89,915301,78.9
+Requiem for a Dream,2000,102,8.3,71,871547,3.64
+The Silence of the Lambs,1991,118,8.6,86,1486924,130.74
+The Shining,1980,146,8.4,66,1064436,44.02
+Terminator 2: Judgment Day,1991,137,8.6,75,1137469,204.84
+American Beauty,1999,122,8.3,84,1182794,130.1
+The Matrix,1999,136,8.7,73,1982699,171.48
+Whiplash,2014,106,8.5,89,925697,13.09
+Good Will Hunting,1997,126,8.3,70,1018441,138.43
+Saving Private Ryan,1998,169,8.6,91,1443677,216.54
+LÃ©on: The Professional,1994,110,8.5,64,1204441,19.5
+The Lord of the Rings: The Return of the King,2003,201,9.0,94,1909648,377.85
+One Flew Over the Cuckoo's Nest,1975,133,8.7,84,1040086,112.0
+Apocalypse Now,1979,147,8.4,94,689494,83.47
+Aliens,1986,137,8.4,84,740572,85.16
+12 Angry Men,1957,96,9.0,97,827735,4.36
+Indiana Jones and the Raiders of the Lost Ark,1981,115,8.4,85,1009398,248.16
+2001: A Space Odyssey,1968,149,8.3,84,694801,56.95
+The Green Mile,1999,189,8.6,61,1354669,136.8
+Braveheart,1995,178,8.3,68,1065258,75.6
+The Pianist,2002,150,8.5,85,872515,32.57
+Avengers: Infinity War,2018,149,8.4,68,1148549,678.82
+Amadeus,1984,160,8.4,87        ,414955,51.97
+The Usual Suspects,1995,106,8.5,77        ,1115281,23.34
+Eternal Sunshine of the Spotless Mind,2004,108,8.3,89        ,1042732,34.4
+The Lion King,1994,88,8.5,88        ,1100905,422.78
+Reservoir Dogs,1992,99,8.3,81        ,1055401,2.83
+Spirited Away,2001,125,8.6,96        ,805071,10.06
+Star Wars: Episode IV - A New Hope,1977,121,8.6,90        ,1408941,322.74
+Once Upon a Time in America,1984,229,8.3,75        ,365076,5.32
+Come and See,1985,142,8.4,-,88995,
+American History X,1998,119,8.5,62        ,1154552,6.72
+"The Good, the Bad and the Ugly",1966,178,8.8,90        ,786487,6.1
+City of God,2002,130,8.6,79        ,779040,7.56
+The Lord of the Rings: The Two Towers,2002,179,8.8,87        ,1723222,342.55
+The Hunt,2012,115,8.3,77        ,347486,0.69
+Toy Story,1995,81,8.3,96        ,1032989,191.8
+Psycho,1960,109,8.5,97        ,695853,32.0
+Once Upon a Time in the West,1968,165,8.5,82        ,340534,5.32
+Casablanca,1942,102,8.5,100        ,589938,1.02
+Life Is Beautiful,1997,116,8.6,59        ,719664,57.6
+Coco,2017,105,8.4,81        ,549857,209.73
+Your Name.,2016,106,8.4,81        ,296196,5.02
+The Intouchables,2011,112,8.5,57        ,893888,13.18
+Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,82        ,1337045,290.48
+Grave of the Fireflies,1988,89,8.5,94        ,293525,
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,8.4,97        ,505150,0.28
+WALLÂ·E,2008,98,8.4,95        ,1159331,223.81
+Princess Mononoke,1997,134,8.3,76        ,413539,2.38
+The Lives of Others,2006,137,8.4,89        ,400150,11.29
+Star Wars: Episode VI - Return of the Jedi,1983,131,8.3,58        ,1089670,309.13
+3 Idiots,2009,170,8.4,67        ,416340,6.53
+Rear Window,1954,112,8.5,100        ,507154,36.76
+Toy Story 3,2010,103,8.3,92        ,866391,415.0
+Seven Samurai,1954,207,8.6,98        ,356700,0.27
+Capernaum,2018,126,8.4,75        ,98115,1.66
+Lawrence of Arabia,1962,218,8.3,100        ,304617,44.82
+It's a Wonderful Life,1946,130,8.6,89        ,477346,
+Cinema Paradiso,1988,155,8.5,80        ,272426,11.99
+Citizen Kane,1941,119,8.3,100        ,454850,1.59
+Das Boot,1981,149,8.4,86        ,258045,11.49
+Singin' in the Rain,1952,103,8.3,99        ,252146,8.82
+Sunset Blvd.,1950,110,8.4,94        ,229596,
+Paths of Glory,1957,88,8.4,90        ,205088,
+Harakiri,1962,133,8.6,85        ,63058,
+M,1931,99,8.3,-,163590,0.03
+Witness for the Prosecution,1957,116,8.4,76        ,131733,8.18
+Ikiru,1952,143,8.3,92        ,83456,0.06
+The Great Dictator,1940,125,8.4,-,231163,0.29
+Modern Times,1936,87,8.5,96        ,251450,0.16
+High and Low,1963,143,8.4,90        ,49227,
+City Lights,1931,87,8.5,99        ,190676,0.02
